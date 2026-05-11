@@ -1,0 +1,5 @@
+pyodbc>=4.0.39
+pandas>=2.0.0
+openpyxl>=3.1.2
+python-pptx>=0.6.23
+python-dotenv>=1.0.0
