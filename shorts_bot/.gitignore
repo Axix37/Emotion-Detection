@@ -1,0 +1,8 @@
+client_secret.json
+youtube_token.json
+tiktok_token.json
+history.json
+output/
+music/
+.venv/
+__pycache__/
